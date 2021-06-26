@@ -11,6 +11,9 @@ I am a passionate programmer. I love to write code.
   <a href="https://www.instagram.com/surya.saini/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://www.crio.do/portfolio/champ121991">
+    <img src="https://raw.githubusercontent.com/suryasaini96/suryasaini96/main/crio.svg" />        
+  </a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/champ121991/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
   </a>&nbsp;&nbsp; 
