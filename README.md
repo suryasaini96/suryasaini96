@@ -27,6 +27,9 @@ I am a passionate programmer. I love to write code.
 - 💬 Ask me anything, I love to answer!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=suryasaini96)
+<a href="https://gist.github.com/suryasaini96">
+    <img src="https://img.shields.io/badge/GitHub-Gists-lightgrey" />        
+</a>
 
 <img align="left" alt="GitHub" width="240" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
