@@ -33,7 +33,7 @@ I am a passionate programmer. I love to write code.
 
 <img align="left" alt="GitHub" width="240" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-**Languages and Tools:** 
+**Technologies & Tools:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
