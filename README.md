@@ -19,9 +19,10 @@ I am a passionate programmer. I love to write code.
   </a>&nbsp;&nbsp; 
 </p>
 
-- ✏️ I'm currenly pursuing PG Diploma in Advanced Computing from CDAC, Pune.
-- 👨‍💻 I'm also into Backend Development Track @Crio.Do.
+- ✏️ I'm currently a Software Engineer @ Mobikwik.
 - 💼 I have a Bachelor's degree in Electronics & Communication.
+- 👨‍💻 I have done Backend Development Track @Crio.Do.
+- 💼 I also have a PG Diploma in Advanced Computing from CDAC, Pune.
 - ⚡ My interests are in Fullstack Web Development.
 - 🧠 Currently learning about advanced Data Structures & Algorithms.  
 - 💬 Ask me anything, I love to answer!
