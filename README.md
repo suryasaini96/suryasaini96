@@ -19,7 +19,7 @@ I am a passionate programmer. I love to write code.
   </a>&nbsp;&nbsp; 
 </p>
 
-- ✏️ I'm currently a Software Engineer @ Mobikwik.
+- ✏️ I'm currently working as a Software Engineer.
 - 💼 I have a Bachelor's degree in Electronics & Communication.
 - 👨‍💻 I have done Backend Development Track @Crio.Do.
 - 💼 I also have a PG Diploma in Advanced Computing from CDAC, Pune.
